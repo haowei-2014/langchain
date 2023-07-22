@@ -1,0 +1,431 @@
+An electric vehicle (EV)[note 1] is a vehicle that uses one or more electric motors for propulsion. It can be powered by a collector system, with electricity from extravehicular sources, or it can be powered autonomously by a battery (sometimes charged by solar panels, or by converting fuel to electricity using fuel cells or a generator).[1] EVs include, but are not limited to, road and rail vehicles, surface and underwater vessels, electric aircraft, and electric spacecraft. For road vehicles, together with other emerging automotive technologies such as autonomous driving, connected vehicles, and shared mobility, EVs form a future mobility vision called Connected, Autonomous, Shared, and Electric (CASE) Mobility.[2]
+
+EVs first came into existence in the late 19th century, when electricity was among the preferred methods for motor vehicle propulsion, providing a level of comfort and ease of operation that could not be achieved by the gasoline cars of the time. Internal combustion engines were the dominant propulsion method for cars and trucks for about 100 years, but electric power remained commonplace in other vehicle types, such as trains and smaller vehicles of all types.
+
+Government incentives to increase adoption were first introduced in the late 2000s, including in the United States and the European Union, leading to a growing market for vehicles in the 2010s.[3][4] Increasing public interest and awareness and structural incentives, such as those being built into the green recovery from the COVID-19 pandemic, are expected to greatly increase the electric vehicle market. During the COVID-19 pandemic, lockdowns reduced the number of greenhouse gases in gasoline or diesel vehicles.[5] The International Energy Agency has stated that governments should do more to meet climate goals, including policies for heavy electric vehicles.[6][7] A total of 14% of all new cars sold were electric in 2022, up from 9% in 2021 and less than 5% in 2020.[8] Electric vehicle sales may increase from 1% of the global share in 2016 to more than 35% by 2030.[9][10] As of July 2022 the global EV market size was $280 billion and was expected to grow to $1 trillion by 2026.[11] Much of this growth is expected in markets like North America, Europe, and China;[12] a 2020 literature review suggested that growth in the use of electric 4-wheeled vehicles appears economically unlikely in developing economies, but that electric 2-wheeler growth is likely.[13] There are more 2 and 3 wheel EVs than any other type.[14]
+
+History
+Main article: History of the electric vehicle
+Electric motive power started in 1827, when Hungarian priest Ányos Jedlik built the first crude but viable electric motor, which used a stator, rotor, and commutator; and the next year he used it to power a small car.[15] In 1835, professor Sibrandus Stratingh of the University of Groningen, in the Netherlands, built a small-scale electric car, and sometime between 1832 and 1839, Robert Anderson of Scotland invented the first crude electric carriage, powered by non-rechargeable primary cells.[16] American blacksmith and inventor Thomas Davenport built a toy electric locomotive, powered by a primitive electric motor, in 1835. In 1838, a Scotsman named Robert Davidson built an electric locomotive that attained a speed of four miles per hour (6 km/h). In England a patent was granted in 1840 for the use of rails as conductors of electric current, and similar American patents were issued to Lilley and Colten in 1847.[17]
+
+The first mass-produced electric vehicles appeared in America in the early 1900s. In 1902, the Studebaker Automobile Company entered the automotive business with electric vehicles, though it also entered the gasoline vehicles market in 1904. However, with the advent of cheap assembly line cars by Ford Motor Company, the popularity of electric cars declined significantly.[18]
+
+Due to lack of electricity grids[19] and the limitations of storage batteries at that time, electric cars did not gain much popularity; however, electric trains gained immense popularity due to their economies and achievable speeds. By the 20th century, electric rail transport became commonplace due to advances in the development of electric locomotives. Over time their general-purpose commercial use reduced to specialist roles as platform trucks, forklift trucks, ambulances,[20] tow tractors, and urban delivery vehicles, such as the iconic British milk float. For most of the 20th century, the UK was the world's largest user of electric road vehicles.[21]
+
+Electrified trains were used for coal transport, as the motors did not use the valuable oxygen in the mines. Switzerland's lack of natural fossil resources forced the rapid electrification of their rail network. One of the earliest rechargeable batteries – the nickel-iron battery – was favored by Edison for use in electric cars.
+
+EVs were among the earliest automobiles, and before the preeminence of light, powerful internal combustion engines (ICEs), electric automobiles held many vehicle land speed and distance records in the early 1900s. They were produced by Baker Electric, Columbia Electric, Detroit Electric, and others, and at one point in history outsold gasoline-powered vehicles. In 1900, 28 percent of the cars on the road in the US were electric. EVs were so popular that even President Woodrow Wilson and his secret service agents toured Washington, D.C., in their Milburn Electrics, which covered 60–70 miles (100–110 km) per charge.[22]
+
+Most producers of passenger cars opted for gasoline cars in the first decade of the 20th century, but electric trucks were an established niche well into the 1920s.[23][24][19] A number of developments contributed to a decline in the popularity of electric cars.[25] Improved road infrastructure required a greater range than that offered by electric cars, and the discovery of large reserves of petroleum in Texas, Oklahoma, and California led to the wide availability of affordable gasoline/petrol, making internal combustion powered cars cheaper to operate over long distances.[26] Electric vehicles were not seldom marketed as a women's luxury car, which may have been a stigma among male consumers.[27] Also, internal combustion powered cars became ever-easier to operate thanks to the invention of the electric starter by Charles Kettering in 1912,[28] which eliminated the need of a hand crank for starting a gasoline engine, and the noise emitted by ICE cars became more bearable thanks to the use of the muffler, which Hiram Percy Maxim had invented in 1897. As roads were improved outside urban areas, electric vehicle range could not compete with the ICE. Finally, the initiation of mass production of gasoline-powered vehicles by Henry Ford in 1913 reduced significantly the cost of gasoline cars as compared to electric cars.[29]
+
+In the 1930s, National City Lines, which was a partnership of General Motors, Firestone, and Standard Oil of California purchased many electric tram networks across the country to dismantle them and replace them with GM buses. The partnership was convicted of conspiring to monopolize the sale of equipment and supplies to their subsidiary companies, but was acquitted of conspiring to monopolize the provision of transportation services.
+
+The Copenhagen Summit, which was conducted in the midst of a severe observable climate change brought on by human-made greenhouse gas emissions, was held in 2009. During the summit, more than 70 countries developed plans to eventually reach net zero. For many countries, adopting more EVs will help reduce the use of gasoline.[30]
+
+Experimentation
+In January 1990, General Motors' President introduced its EV concept two-seater, the "Impact", at the Los Angeles Auto Show. That September, the California Air Resources Board mandated major-automaker sales of EVs, in phases starting in 1998. From 1996 to 1998 GM produced 1117 EV1s, 800 of which were made available through three-year leases.[31]
+
+Chrysler, Ford, GM, Honda, and Toyota also produced limited numbers of EVs for California drivers during this time period. In 2003, upon the expiration of GM's EV1 leases, GM discontinued them. The discontinuation has variously been attributed to:
+
+the auto industry's successful federal court challenge to California's zero-emissions vehicle mandate,
+a federal regulation requiring GM to produce and maintain spare parts for the few thousand EV1s and
+the success of the oil and auto industries' media campaign to reduce public acceptance of EVs.
+A movie made on the subject in 2005–2006 was titled Who Killed the Electric Car? and released theatrically by Sony Pictures Classics in 2006. The film explores the roles of automobile manufacturers, oil industry, the U.S. government, batteries, hydrogen vehicles, and the general public, and each of their roles in limiting the deployment and adoption of this technology.
+
+Ford released a number of their Ford Ecostar delivery vans into the market. Honda, Nissan and Toyota also repossessed and crushed most of their EVs, which, like the GM EV1s, had been available only by closed-end lease. After public protests, Toyota sold 200 of its RAV4 EVs; they later sold at over their original forty-thousand-dollar price. Later, BMW of Canada sold off a number of Mini EVs when their Canadian testing ended.
+
+The production of the Citroën Berlingo Electrique stopped in September 2005. Zenn started production in 2006 but ended by 2009.[32]
+
+Reintroduction
+
+The global stock of both plug-in hybrid electric vehicles (PHEVs) and battery electric vehicles (BEVs) has grown steadily since the 2010s.[33]
+
+Sales of passenger electric vehicles (EVs) indicate a trend away from gas-powered vehicles.[34]
+During the late 20th and early 21st century, the environmental impact of the petroleum-based transportation infrastructure, along with the fear of peak oil, led to renewed interest in electric transportation infrastructure.[35] EVs differ from fossil fuel-powered vehicles in that the electricity they consume can be generated from a wide range of sources, including fossil fuels, nuclear power, and renewables such solar power and wind power or any combination of those. The carbon footprint and other emissions of electric vehicles vary depending on the fuel and technology used for electricity generation.[36][37] The electricity may be stored in the vehicle using a battery, flywheel, or supercapacitors. Vehicles using internal combustion engines usually only derive their energy from a single or a few sources, usually non-renewable fossil fuels. A key advantage of electric vehicles is regenerative braking, which recovers kinetic energy, typically lost during friction braking as heat, as electricity restored to the on-board battery.
+
+Electricity sources
+There are many ways to generate electricity, of varying costs, efficiency and ecological desirability.
+
+
+A passenger train, taking power through a third rail with return through the traction rails
+
+An electric locomotive at Brig, Switzerland
+
+The MAZ-7907 uses an on-board generator to power in-wheel electric motors.
+Connection to generator plants
+Direct connection to generation plants as is common among electric trains, trams, trolleybuses, and trolleytrucks (See also: overhead lines, third rail and conduit current collection)
+Online electric vehicle collects power from electric power strips buried under the road surface through electromagnetic induction
+Onboard generators and hybrid EVs
+See also: Diesel–electric transmission, Petrol–electric transmission, and Hybrid vehicle
+Generated on-board using a diesel engine: diesel–electric locomotive and diesel–electric multiple unit (DEMU)
+Generated on-board using a fuel cell: fuel cell vehicle
+Generated on-board using nuclear energy: nuclear submarines and aircraft carriers
+Renewable sources such as solar power: solar vehicle
+It is also possible to have hybrid EVs that derive electricity from multiple sources, such as:
+
+On-board rechargeable electricity storage system (RESS) and a direct continuous connection to land-based generation plants for purposes of on-highway recharging with unrestricted highway range[38]
+On-board rechargeable electricity storage system and a fueled propulsion power source (internal combustion engine): plug-in hybrid
+For especially large EVs, such as submarines, the chemical energy of the diesel–electric can be replaced by a nuclear reactor. The nuclear reactor usually provides heat, which drives a steam turbine, which drives a generator, which is then fed to the propulsion. See Nuclear marine propulsion.
+
+A few experimental vehicles, such as some cars and a handful of aircraft use solar panels for electricity.
+
+Onboard storage
+Fuel use in vehicle designs
+Vehicle type	Fuel used
+All-petroleum vehicle
+(aka all-combustion vehicle)	Most use of petroleum or other fuel.
+Regular hybrid
+electric vehicle	Less use of petroleum or other fuel,
+but unable to be plugged in.
+Plug-in hybrid vehicle	Less use of petroleum or other fuel,
+residual use of electricity.
+All-electric vehicle
+(BEV, AEV)	Exclusively uses electricity.
+vte
+These systems are powered from an external generator plant (nearly always when stationary), and then disconnected before motion occurs, and the electricity is stored in the vehicle until needed.
+
+Full Electric Vehicles (FEV).[39] Power storage methods include:
+Chemical energy stored on the vehicle in on-board batteries: Battery electric vehicle (BEV) typically with a lithium-ion battery
+Kinetic energy storage: flywheels
+Static energy stored on the vehicle in on-board electric double-layer capacitors
+Batteries, electric double-layer capacitors and flywheel energy storage are forms of rechargeable on-board electricity storage systems. By avoiding an intermediate mechanical step, the energy conversion efficiency can be improved compared to hybrids by avoiding unnecessary energy conversions. Furthermore, electro-chemical batteries conversions are reversible, allowing electrical energy to be stored in chemical form.[40]
+
+Lithium-ion battery
+
+Battery electric bus powered with lithium-ion batteries
+
+Learning curve of lithium-ion batteries: the price of batteries declined by 97% in three decades.[41][42]
+Main article: Electric vehicle battery
+Most electric vehicles use lithium-ion batteries (Li-Ions or LIBs). Lithium ion batteries have higher energy density, longer life span and higher power density than most other practical batteries. Complicating factors include safety, durability, thermal breakdown, its environmental impact and cost. Li-ion batteries should be used within safe temperature and voltage ranges in order to operate safely and efficiently.[43]
+
+Increasing the battery's lifespan decreases effective costs. One technique is to operate a subset of the battery cells at a time and switching these subsets.[44]
+
+In the past, nickel–metal hydride batteries were used in some electric cars, such as those made by General Motors.[45] These battery types are considered outdated due to their tendencies to self-discharge in the heat.[46] Furthermore, a patent for this type of battery was held by Chevron, which created a problem for their widespread development.[47] These factors, coupled with their high cost, has led to lithium-ion batteries leading as the predominant battery for EVs.[48]
+
+The prices of lithium-ion batteries have declined dramatically over the past decade, contributing to a reduction in price for electric vehicles, but an increase in the price of critical minerals such as lithium from 2021 to the end of 2022 has put pressure on historical battery price decreases.[49][50]
+
+Electric motor
+
+Electric truck e-Force One
+Main article: Traction motor
+The power of a vehicle's electric motor, as in other machines, is measured in kilowatts (kW). Electric motors can deliver their maximum torque over a wide RPM range. This means that the performance of a vehicle with a 100 kW electric motor exceeds that of a vehicle with a 100 kW internal combustion engine, which can only deliver its maximum torque within a limited range of engine speed.
+
+Efficiency of charging varies considerably depending on the type of charger,[51] and energy is lost during the process of converting the electrical energy to mechanical energy.
+
+Usually, direct current (DC) electricity is fed into a DC/AC inverter where it is converted to alternating current (AC) electricity and this AC electricity is connected to a 3-phase AC motor.
+
+For electric trains, forklift trucks, and some electric cars, DC motors are often used. In some cases, universal motors are used, and then AC or DC may be employed. In recent production vehicles, various motor types have been implemented; for instance, induction motors within Tesla Motor vehicles and permanent magnet machines in the Nissan Leaf and Chevrolet Bolt.[52]
+
+Vehicle types
+
+Neighborhood Electric Vehicle
+Squad Solar NEV
+It is generally possible to equip any kind of vehicle with an electric power-train.
+
+Ground vehicles
+Pure-electric vehicles
+See also: Electric car and Battery electric vehicle
+A pure-electric vehicle or all-electric vehicle is powered exclusively through electric motors. The electricity may come from a battery (battery electric vehicle), solar panel (solar vehicle) or fuel cell (fuel cell vehicle).
+
+Hybrid EVs
+This section is an excerpt from Hybrid electric vehicle.[edit]
+A hybrid electric vehicle (HEV) is a type of hybrid vehicle that combines a conventional internal combustion engine (ICE) system with an electric propulsion system (hybrid vehicle drivetrain). The presence of the electric powertrain is intended to achieve either better fuel economy than a conventional vehicle or better performance. There is a variety of HEV types and the degree to which each function as an electric vehicle (EV) also varies. The most common form of HEV is the hybrid electric car, although hybrid electric trucks (pickups and tractors), buses, boats and aircraft also exist.
+
+Modern HEVs make use of efficiency-improving technologies such as regenerative brakes which convert the vehicle's kinetic energy to electric energy, which is stored in a battery or supercapacitor. Some varieties of HEV use an internal combustion engine to turn an electrical generator, which either recharges the vehicle's batteries or directly powers its electric drive motors; this combination is known as a motor–generator.[53] Many HEVs reduce idle emissions by shutting down the engine at idle and restarting it when needed; this is known as a start-stop system. A hybrid-electric produces lower tailpipe emissions than a comparably sized gasoline car since the hybrid's gasoline engine is usually smaller than that of a gasoline-powered vehicle. If the engine is not used to drive the car directly, it can be geared to run at maximum efficiency, further improving fuel economy.
+There are different ways that a hybrid electric vehicle can combine the power from an electric motor and the internal combustion engine. The most common type is a parallel hybrid that connects the engine and the electric motor to the wheels through mechanical coupling. In this scenario, the electric motor and the engine can drive the wheels directly. Series hybrids only use the electric motor to drive the wheels and can often be referred to as extended-range electric vehicles (EREVs) or range-extended electric vehicles (REEVs). There are also series-parallel hybrids where the vehicle can be powered by the engine working alone, the electric motor on its own, or by both working together; this is designed so that the engine can run at its optimum range as often as possible.[54]
+
+Plug-in electric vehicle
+Main article: Plug-in electric vehicle
+See also: Plug-in hybrid and Electric car
+
+Togg C-SUV[55] produced by Togg,[56] a Turkish automotive company established in 2018 for producing EVs.[57][58][55]
+A plug-in electric vehicle (PEV) is any motor vehicle that can be recharged from any external source of electricity, such as wall sockets, and the electricity stored in the Rechargeable battery packs drives or contributes to drive the wheels. PEV is a subcategory of electric vehicles that includes battery electric vehicles (BEVs), plug-in hybrid vehicles, (PHEVs), and electric vehicle conversions of hybrid electric vehicles and conventional internal combustion engine vehicles.[59][60][61]
+
+Range-extended electric vehicle
+See also: Range extender
+A range-extended electric vehicle (REEV) is a vehicle powered by an electric motor and a plug-in battery. An auxiliary combustion engine is used only to supplement battery charging and not as the primary source of power.[62]
+
+On- and off-road EVs
+
+An electric powertrain used by Power Vehicle Innovation for trucks or buses[63]
+On-road electric vehicles include electric cars, electric trolleybuses, electric buses, battery electric buses, electric trucks, electric bicycles, electric motorcycles and scooters, personal transporters, neighborhood electric vehicles, golf carts, milk floats, and forklifts. Off-road vehicles include electrified all-terrain vehicles and tractors.
+
+Railborne EVs
+Main article: Railway electrification system
+
+A streetcar (or tram) in Hanover drawing current from a single overhead wire through a pantograph
+The fixed nature of a rail line makes it relatively easy to power EVs through permanent overhead lines or electrified third rails, eliminating the need for heavy onboard batteries. Electric locomotives, electric multiple units, electric trams (also called streetcars or trolleys), electric light rail systems, and electric rapid transit are all in common use today, especially in Europe and Asia.
+
+Since electric trains do not need to carry a heavy internal combustion engine or large batteries, they can have very good power-to-weight ratios. This allows high speed trains such as France's double-deck TGVs to operate at speeds of 320 km/h (200 mph) or higher, and electric locomotives to have a much higher power output than diesel locomotives. In addition, they have higher short-term surge power for fast acceleration, and using regenerative brakes can put braking power back into the electrical grid rather than wasting it.
+
+Maglev trains are also nearly always EVs.[64]
+
+There are also battery electric passenger trains operating on non-electrified rail lines.
+
+Space rover vehicles
+Main article: Rover (space exploration)
+Crewed and uncrewed vehicles have been used to explore the Moon and other planets in the Solar System. On the last three missions of the Apollo program in 1971 and 1972, astronauts drove silver-oxide battery-powered Lunar Roving Vehicles distances up to 35.7 kilometers (22.2 mi) on the lunar surface.[65] Uncrewed, solar-powered rovers have explored the Moon and Mars.[66][67]
+
+Airborne EVs
+Main article: Electric aircraft
+
+Mars helicopter Ingenuity
+Since the beginnings of aviation, electric power for aircraft has received a great deal of experimentation. Currently, flying electric aircraft include manned and unmanned aerial vehicles.
+
+Seaborne EVs
+See also: Submarine § Propulsion, Ship § Propulsion systems, and electric boat
+
+Oceanvolt SD8.6 electric saildrive motor
+Electric boats were popular around the turn of the 20th century. Interest in quiet and potentially renewable marine transportation has steadily increased since the late 20th century, as solar cells have given motorboats the infinite range of sailboats. Electric motors can and have also been used in sailboats instead of traditional diesel engines.[68] Electric ferries operate routinely.[69] Submarines use batteries (charged by diesel or gasoline engines at the surface), nuclear power, fuel cells[70] or Stirling engines to run electric motor-driven propellers.
+
+Electrically powered spacecraft
+Main article: Electrically powered spacecraft propulsion
+Electric power has a long history of use in spacecraft.[71][72] The power sources used for spacecraft are batteries, solar panels and nuclear power. Current methods of propelling a spacecraft with electricity include the arcjet rocket, the electrostatic ion thruster, the Hall-effect thruster, and Field Emission Electric Propulsion.
+
+Energy and motors
+
+A trolleybus uses two overhead wires to provide electric current supply and return to the power source.
+
+Hess Swisstrolley 3 in St. Gallen
+Most large electric transport systems are powered by stationary sources of electricity that are directly connected to the vehicles through wires. Electric traction allows the use of regenerative braking, in which the motors are used as brakes and become generators that transform the motion of, usually, a train into electrical power that is then fed back into the lines. This system is particularly advantageous in mountainous operations, as descending vehicles can produce a large portion of the power required for those ascending. This regenerative system is only viable if the system is large enough to utilise the power generated by descending vehicles.
+
+In the systems above, motion is provided by a rotary electric motor. However, it is possible to "unroll" the motor to drive directly against a special matched track. These linear motors are used in maglev trains which float above the rails supported by magnetic levitation. This allows for almost no rolling resistance of the vehicle and no mechanical wear and tear of the train or track. In addition to the high-performance control systems needed, switching and curving of the tracks becomes difficult with linear motors, which to date has restricted their operations to high-speed point to point services.
+
+Records
+Electric Land Speed Record 353 mph (568 km/h).[73]
+Electric Car Distance Record 1,725 miles (2,776 km) in 24 hours by Bjørn Nyland.[74]
+Greatest distance by electric vehicle, single charge 999.5 miles (1,608.5 km).[75]
+Electric Motorcycle: 1,070 miles (1,720 km) under 24 hours. Michel von Tell on Harley.[76]
+Electric flight: 439.5 miles (707.3 km) without charge.[77]
+Properties
+Components
+The type of battery, the type of traction motor and the motor controller design vary according to the size, power and proposed application, which can be as small as a motorized shopping cart or wheelchair, through pedelecs, electric motorcycles and scooters, neighborhood electric vehicles, industrial fork-lift trucks and including many hybrid vehicles.
+
+Energy sources
+EVs are much more efficient than fossil fuel vehicles and have few direct emissions. At the same time, they do rely on electrical energy that is generally provided by a combination of non-fossil fuel plants and fossil fuel plants. Consequently, EVs can be made less polluting overall by modifying the source of electricity. In some areas, persons can ask utilities to provide their electricity from renewable energy.
+
+Fossil fuel vehicle efficiency and pollution standards take years to filter through a nation's fleet of vehicles. New efficiency and pollution standards rely on the purchase of new vehicles, often as the current vehicles already on the road reach their end-of-life. Only a few nations set a retirement age for old vehicles, such as Japan or Singapore, forcing periodic upgrading of all vehicles already on the road.
+
+Batteries
+Main article: Electric vehicle battery
+
+lithium ion polymer battery prototypes. Newer Li-poly cells provide up to 130 Wh/kg and last through thousands of charging cycles.
+An electric-vehicle battery (EVB) in addition to the traction battery speciality systems used for industrial (or recreational) vehicles, are batteries used to power the propulsion system of a battery electric vehicle (BEVs). These batteries are usually a secondary (rechargeable) battery, and are typically lithium-ion batteries. Traction batteries, specifically designed with a high ampere-hour capacity, are used in forklifts, electric golf carts, riding floor scrubbers, electric motorcycles, electric cars, trucks, vans, and other electric vehicles.[78][79]
+
+Efficiency
+EVs convert over 59–62% of grid energy to the wheels. Conventional gasoline vehicles convert around 17–21%.[80]
+
+Charging
+Grid capacity
+If almost all road vehicles were electric it would increase global demand for electricity by up to 25% by 2050 compared to 2020.[81] However, overall energy consumption and emissions would diminish because of the higher efficiency of EVs over the entire cycle, and the reduction in energy needed to refine fossil fuels.
+
+Charging stations
+This section is an excerpt from Charging station.[edit]
+
+
+
+
+Charging stations for electric vehicles:
+Top-left: a Tesla Roadster (2008) being charged at an electric charging station in Iwata city, Japan.
+Top-right: Brammo Empulse electric motorcycle at an AeroVironment charging station and Pay as you go electric vehicle charging point.
+Bottom-left: Nissan Leaf recharging from a NRG Energy eVgo station in Houston, Texas.
+Bottom-right: converted Toyota Priuses recharging at public charging stations in San Francisco (2009).
+A charging station, also known as a charge point or electric vehicle supply equipment (EVSE), is a power supply device that supplies electrical power for recharging plug-in electric vehicles (including battery electric vehicles, electric trucks, electric buses, neighborhood electric vehicles and plug-in hybrid vehicles).
+
+There are two main types: AC charging stations and DC charging stations. Electric vehicle batteries can only be charged by direct current (DC) electricity, while most mains electricity is delivered from the power grid as alternating current (AC). For this reason, most electric vehicles have a built-in AC-to-DC converter commonly known as the "onboard charger". At an AC charging station, AC power from the grid is supplied to this onboard charger, which converts it into DC power to then recharge the battery. DC chargers facilitate higher power charging (which requires much larger AC-to-DC converters) by building the converter into the charging station instead of the vehicle to avoid size and weight restrictions. The station then supplies DC power to the vehicle directly, bypassing the onboard converter. Most modern electric car models can accept both AC and DC power.
+
+Charging stations provide connectors that conform to a variety of international standards. DC charging stations are commonly equipped with multiple connectors to be able to charge a wide variety of vehicles that utilize competing standards.
+
+Public charging stations are typically found street-side or at retail shopping centers, government facilities, and other parking areas. Private charging stations are typically found at residences, workplaces, and hotels.
+Battery swapping
+Instead of recharging EVs from electric sockets, batteries could be mechanically replaced at special stations in a few minutes (battery swapping).
+
+Batteries with greater energy density such as metal-air fuel cells cannot always be recharged in a purely electric way, so some form of mechanical recharge may be used instead. A zinc–air battery, technically a fuel cell, is difficult to recharge electrically so may be "refueled" by periodically replacing the anode or electrolyte instead.[82]
+
+Dynamic charging
+Dynamic charging technologies tested in Sweden[83][84][85]
+Type
+(and developer)	Power per
+receiver
+(and power
+pending further
+development)	Million SEK
+per km road
+both ways	References
+Overhead power
+lines (Siemens)	650 kW
+(1000 kW)	12.4	[83]: 140–144 
+[84]: 23–24, 54 
+Ground-level power supply
+through in-road rail
+(Elways and NCC consortium)	200 kW
+(800 kW)	9.4-10.5	[83]: 146–149 
+[84]: 21–23, 54 
+Ground-level power supply
+through on-road rail
+(Elonroad and ABB consortium)	150 kW
+(500 kW)	11.5-15.3	[84]: 25–26, 54 
+Wireless power transfer
+through in-road
+inductive coils (Electreon)	25 kW
+(40 kW)	19.5-20.8	[83]: 171–172 
+[84]: 26–28, 54 
+TRL (formerly Transport Research Laboratory) lists three power delivery types for dynamic charging, or charging while the vehicle is in motion: overhead power lines, and ground level power through rail or induction. TRL lists overhead power as the most technologically mature solution which provides the highest levels of power, but the technology is unsuitable for non-commercial vehicles. Ground-level power is suitable for all vehicles, with rail being a mature solution with high transfer of power and easily accessible and inspected elements. Inductive charging delivers the least power and requires more roadside equipment than the alternatives.[83]: Appendix D 
+
+The European Commission published in 2021 a request for regulation and standardization of electric road systems.[86] Shortly afterward, a working group of the French Ministry of Ecology recommended adopting a European electric road standard formulated with Sweden, Germany, Italy, the Netherlands, Spain, Poland, and others.[87] The first standard for electrical equipment on-board a vehicle powered by a rail electric road system (ERS), CENELEC Technical Standard 50717, has been approved in late 2022.[88] Following standards, encompassing "full interoperability" and a "unified and interoperable solution" for ground-level power supply, are scheduled to be published by the end 2024, detailing complete "specifications for communication and power supply through conductive rails embedded in the road".[89][90]
+
+Other in-development technologies
+Main article: Electric double-layer capacitor
+[icon]
+This section needs expansion with: up-to-date information. You can help by adding to it. (July 2021)
+Conventional electric double-layer capacitors are being worked on to achieve the energy density of lithium-ion batteries, offering almost unlimited lifespans and no environmental issues. High-K electric double-layer capacitors, such as EEStor's EESU, could improve lithium ion energy density several times over if they can be produced. Lithium-sulphur batteries offer 250 Wh/kg.[91] Sodium-ion batteries promise 400 Wh/kg with only minimal expansion/contraction during charge/discharge and a very high surface area, and rely on lower cost materials than Lithium-ion, Leading to Cheaper batteries that do not require critical minerals.[92]
+
+Safety
+[icon]
+This section needs expansion with: up-to-date information. You can help by adding to it. (July 2021)
+The United Nations in Geneva (UNECE) has adopted the first international regulation (Regulation 100) on safety of both fully electric and hybrid electric cars, with the intent of ensuring that cars with a high voltage electric power train, such as hybrid and fully-electric vehicles, are as safe as combustion-powered cars. The EU and Japan have already indicated that they intend to incorporate the new UNECE Regulation in their respective rules on technical standards for vehicles.[93]
+
+Environmental
+See also: Environmental aspects of the electric car, Environmental impacts of lithium-ion batteries, and Environmental impact of the petroleum industry
+EVs release no tailpipe air pollutants, and reduce respiratory illnesses such as asthma.[94] However, EVs are charged with electricity that may be generated by means that have health and environmental impacts.[95][96]
+
+The carbon emissions from producing and operating an EV are typically less than those of producing and operating a conventional vehicle.[97] EVs in urban areas almost always pollute less than internal combustion vehicles.[98]
+
+One limitation of the environmental potential of EVs is that simply switching the existing privately owned car fleet from ICEs to EVs will not free up road space for active travel or public transport.[99] Electric micromobility vehicles, such as e-bikes, may contribute to the decarbonisation of transport systems, especially outside of urban areas which are already well-served by public transport.[100]
+
+Internal combustion engined vehicles use far more raw materials over their lifetime than EVs.[101]
+
+Since their first commercial release in 1991, lithium-ion batteries have become an important technology for achieving low-carbon transportation systems. The sustainability of production process of batteries has not been fully assessed in either economic, social or environmental terms.[102][obsolete source]
+
+Business processes of raw material extraction in practice raise issues of transparency and accountability of the management of extractive resources. In the complex supply chain of lithium technology, there are diverse stakeholders representing corporate interests, public interest groups and political elites that are concerned with outcomes from the technology production and use. One possibility to achieve balanced extractive processes would be the establishment of commonly agreed standards on the governance of technology worldwide.[102]
+
+The compliance of these standards can be assessed by the Assessment of Sustainability in Supply Chains Frameworks (ASSC). Hereby, the qualitative assessment consists of examining governance and social and environmental commitment. Indicators for the quantitative assessment are management systems and standards, compliance and social and environmental indicators.[103]
+
+One source estimates that over a fifth of the lithium and about 65% of the cobalt needed for electric cars will be from recycled sources by 2035.[104] On the other hand, when counting the large quantities of fossil fuel non-electric cars consume over their lifetime, electric cars can be considered to dramatically reduce raw-material needs.[104]
+
+In 2022, the manufacturing of an EV emitted on average around 50% more CO2 than an equivalent internal combustion engine vehicle, but this difference is more than offset by the much higher emissions from the oil used in driving an internal combustion engine Vehicle over its lifetime compared to those from generating the electricity used for driving the EV.[105]
+
+Socio-economic
+A 2003 study in the United Kingdom found that "[p]ollution is most concentrated in areas where young children and their parents are more likely to live and least concentrated in areas to which the elderly tend to migrate," and that "those communities that are most polluted and which also emit the least pollution tend to be amongst the poorest in Britain."[106] A 2019 UK study found that "households in the poorest areas emit the least NOx and PM, whilst the least poor areas emitted the highest, per km, vehicle emissions per household through having higher vehicle ownership, owning more diesel vehicles and driving further."[107]
+
+Mechanical
+
+Tesla Model S chassis with drive motor
+
+Cutaway view of a Tesla Model S drive motor
+Electric motors are mechanically very simple and often achieve 90% energy conversion efficiency[108] over the full range of speeds and power output and can be precisely controlled. They can also be combined with regenerative braking systems that have the ability to convert movement energy back into stored electricity. This can be used to reduce the wear on brake systems (and consequent brake pad dust) and reduce the total energy requirement of a trip. Regenerative braking is especially effective for start-and-stop city use.
+
+They can be finely controlled and provide high torque from stationary-to-moving, unlike internal combustion engines, and do not need multiple gears to match power curves. This removes the need for gearboxes and torque converters.
+
+EVs provide quiet and smooth operation and consequently have less noise and vibration than internal combustion engines.[109] While this is a desirable attribute, it has also evoked concern that the absence of the usual sounds of an approaching vehicle poses a danger to blind, elderly and very young pedestrians. To mitigate this situation, many countries mandate warning sounds when EVs are moving slowly, up to a speed when normal motion and rotation (road, suspension, electric motor, etc.) noises become audible.[110]
+
+Electric motors do not require oxygen, unlike internal combustion engines; this is useful for submarines and for space rovers.
+
+Energy resilience
+Electricity can be produced from a variety of sources; therefore, it gives the greatest degree of energy resilience.[111]
+
+Energy efficiency
+EV 'tank-to-wheels' efficiency is about a factor of three higher than internal combustion engine vehicles.[109] Energy is not consumed while the vehicle is stationary, unlike internal combustion engines which consume fuel while idling. However, looking at the well-to-wheel efficiency of EVs, their total emissions, while still lower,[clarification needed] are closer[clarification needed] to an efficient gasoline or diesel in most countries where electricity generation relies on fossil fuels.[112][113]
+
+In 2022, EVs enabled a net reduction of about 80 Mt of GHG emissions, on a well to-wheels basis, and the net GHG benefit of EVs will increase over time as the electricity sector is decarbonised.[114]
+
+Well-to-wheel efficiency of an EV has less to do with the vehicle itself and more to do with the method of electricity production. A particular EV would instantly become twice as efficient if electricity production were switched from fossil fuels to renewable energy, such as wind power, tidal power, solar power, and nuclear power. Thus, when "well-to-wheels" is cited, the discussion is no longer about the vehicle, but rather about the entire energy supply infrastructure – in the case of fossil fuels this should also include energy spent on exploration, mining, refining, and distribution.
+
+The lifecycle analysis of EVs shows that even when powered by the most carbon-intensive electricity in Europe, they emit less greenhouse gases than a conventional diesel vehicle.[115]
+
+Total cost
+As of 2021 the purchase price of an EV is often more, but the total cost of ownership of an EV varies wildly depending on location[116] and distance travelled per year:[117] in parts of the world where fossil fuels are subsidized, lifecycle costs of diesel or gas-powered vehicle are sometimes less than a comparable EV.[118]
+
+Range
+Electric vehicles may have shorter range compared to vehicles with internal combustion engines,[119][120] which is why the electrification of long-distance transport, such as long-distance shipping, remains challenging.
+
+In 2022, the sales-weighted average range of small BEVs sold in the United States was nearly 350 km, while in France, Germany and the United Kingdom it was just under 300 km, compared to under 220km in China.[121]
+
+Heating of EVs
+In cold climates, considerable energy is needed to heat the interior of a vehicle and to defrost the windows. With internal combustion engines, this heat already exists as waste combustion heat diverted from the engine cooling circuit. This process offsets the greenhouse gases' external costs. If this is done with battery EVs, the interior heating requires extra energy from the vehicles' batteries. Although some heat could be harvested from the motor or motors and battery, their greater efficiency means there is not as much waste heat available as from a combustion engine.
+
+However, for vehicles which are connected to the grid, battery EVs can be preheated, or cooled, with little or no need for battery energy, especially for short trips.
+
+Newer designs are focused on using super-insulated cabins which can heat the vehicle using the body heat of the passengers. This is not enough, however, in colder climates as a driver delivers only about 100 W of heating power. A heat pump system, capable of cooling the cabin during summer and heating it during winter, is a more efficient way of heating and cooling EVs.[122]
+
+Electric public transit efficiency
+Shifts from private to public transport (train, trolleybus, personal rapid transit or tram) have the potential for large gains in efficiency in terms of an individual's distance traveled per kWh.
+
+Research shows people prefer trams to buses,[123] because they are quieter and more comfortable and perceived as having higher status.[124] Therefore, it may be possible to cut liquid fossil fuel consumption in cities through the use of electric trams. Trams may be the most energy-efficient form of public transportation, with rubber-wheeled vehicles using two-thirds more energy than the equivalent tram, and run on electricity rather than fossil fuels.
+
+In terms of net present value, they are also the cheapest – Blackpool trams are still running after 100 years,[125] but combustion buses only last about 15 years.
+
+Polluter pays principle
+Main article: Government incentives for plug-in electric vehicles
+See also: Electric car use by country
+The IEA suggests that taxing inefficient internal combustion engine vehicles could encourage adoption of EVs, with taxes raised being used to fund subsidies for EVs.[126] Government procurement is sometimes used to encourage national EV manufacturers.[127][128] Many countries will ban sales of fossil fuel vehicles between 2025 and 2040.[129]
+
+Many governments offer incentives to promote the use of electric vehicles, with the goals of reducing air pollution and oil consumption. Some incentives intend to increase purchases of electric vehicles by offsetting the purchase price with a grant. Other incentives include lower tax rates or exemption from certain taxes, and investment in charging infrastructure.
+
+Companies selling EVs have partnered with local electric utilities in order to provide large incentives on some electric vehicles.[130]
+
+Future
+
+Rimac Concept One, electric supercar, since 2013. 0 to 100 km/h in 2.8 seconds, with a total output of 800 kW (1,073 hp).
+The COVID-19 pandemic gave birth to proposals for radical change in the organisation of the city, such as the Manifesto for the Reorganisation of the City after COVID-19, published in Barcelona and signed by 160 academics and 300 architects, highly critical towards a transportation based on the private electric vehicle considered as a false solution.[131][132][133]
+
+Public perception
+A European survey based on climate found that as of 2022, 39% of European citizens tend to prefer hybrid vehicles, while 33% prefer petrol or diesel vehicles. The least preferred type of vehicles are electric cars, preferred by 28% of Europeans.[134] 44% Chinese car buyers are the most likely to buy an electric car, while 38% of Americans would opt for a hybrid car, 33% would prefer petrol or diesel, while only 29% would go for an electric car.[134]
+
+Environmental considerations
+See also: Environmental footprint of electric cars
+By reducing air pollution, such as nitrogen dioxide, EVs could prevent hundreds of thousands of early deaths every year,[135][136] especially from trucks and old cars in cities.[137]
+
+Many vehicle battery chemistries rely heavily on the mining of rare earth metals such as cobalt, nickel, and copper.[138][139][dubious – discuss] In 2023 the US State Department said that the supply of lithium would need to increase 42-fold by 2050 globally to support a transition to clean energy.[140] Rare-earth metals (neodymium, dysprosium) and other mined metals (copper, nickel, iron) are used by EV motors, while lithium, cobalt, manganese are used by the batteries.[141][139] The full environmental impact of electric vehicles includes the life cycle impacts of carbon and sulfur emissions, as well as toxic metals entering the environment. Most of the lithium ion battery production occurs in China, where the bulk of energy used is supplied by coal burning power plants. A study of hundreds of cars on sale in 2021 concluded that the life cycle GHG emissions of full electric cars are slightly less than hybrids and that both are less than gasoline and diesel fuelled cars.[142]
+
+An alternative method of sourcing essential battery materials being deliberated by the International Seabed Authority is deep sea mining, however carmakers are not using this as of 2023.[143]
+
+Improved batteries
+Advances in lithium-ion batteries, driven at first by the personal-use electronics industry, allow full-sized, highway-capable EVs to travel nearly as far on a single charge as conventional cars go on a single tank of gasoline. Lithium batteries have been made safe, can be recharged in minutes instead of hours (see recharging time), and now last longer than the typical vehicle (see lifespan). The production cost of these lighter, higher-capacity lithium-ion batteries is gradually decreasing as the technology matures and production volumes increase.[144][145]
+
+Many companies and researchers are also working on newer battery technologies, including solid state batteries[146] and alternate technologies.[147]
+
+Battery management and intermediate storage
+Another improvement is to decouple the electric motor from the battery through electronic control, using supercapacitors to buffer large but short power demands and regenerative braking energy.[148] The development of new cell types combined with intelligent cell management improved both weak points mentioned above. The cell management involves not only monitoring the health of the cells but also a redundant cell configuration (one more cell than needed). With sophisticated switched wiring, it is possible to condition one cell while the rest are on duty.[citation needed]
+
+Electric trucks
+This section is an excerpt from Electric truck.[edit]
+
+Smith Edison, based on the Ford Transit
+
+Electric Renault Midlum used by Nestlé in 2015
+An electric truck is an electric vehicle powered by batteries designed to transport cargo, carry specialized payloads, or perform other utilitarian work.
+
+Electric trucks have serviced niche applications like milk floats, pushback tugs and forklifts for over a hundred years, typically using lead-acid batteries, but the rapid development of lighter and more energy-dense battery chemistries in the twenty-first century has broadened the range of applicability of electric propulsion to trucks in many more roles.
+
+Electric trucks reduce noise and pollution, relative to internal-combustion trucks. Due to the high efficiency and low component-counts of electric power trains, no fuel burning while idle, and silent and efficient acceleration, the costs of owning and operating electric trucks are dramatically lower than their predecessors.[149][150] According to the United States Department of Energy, the average cost per kWh capacity of battery packs for trucks fell from $500 in 2013 to $200 in 2019, and still further to $137 in 2020, with some vehicles under $100 for the first time.[151][152]
+
+Long-distance freight has been the trucking segment least amenable to electrification, since the increased weight of batteries, relative to fuel, detracts from payload capacity, and the alternative, more frequent recharging, detracts from delivery time. By contrast, short-haul urban delivery has been electrified rapidly, since the clean and quiet nature of electric trucks fit well with urban planning and municipal regulation, and the capacities of reasonably sized batteries are well-suited to daily stop-and-go traffic within a metropolitan area.[153][154][155]
+
+In South Korea, electric trucks hold a noticeable share of the new truck market; in 2020, among trucks produced and sold domestically (which are the vast majority of new trucks sold in the country), 7.6% were all-electric vehicles.[156]
+Hydrogen trains
+Particularly in Europe, fuel-cell electric trains are gaining in popularity to replace diesel-electric units. In Germany, several Länder have ordered Alstom Coradia iLINT trainsets, in service since 2018,[157] with France also planning to order trainsets.[158] The United Kingdom, the Netherlands, Denmark, Norway, Italy, Canada[157] and Mexico[159] are equally interested. In France, the SNCF plans to replace all its remaining diesel-electric trains with hydrogen trains by 2035.[160] In the United Kingdom, Alstom announced in 2018 their plan to retrofit British Rail Class 321 trainsets with fuel cells.[161]
+
+Higher voltage outlets in garages of newly built homes
+See also: NEMA connectors
+
+NEMA 14-50 240v 50 amps
+
+NEMA 14-50
+In New Mexico the government is looking to pass legislation mandating electrical receptacles that are higher voltage to be installed in garages of newly built homes.[162] The NEMA 14-50 outlets provide 240 volts and 50 Amps for a total of 12.5 Kilowatts for level 2 charging of electric vehicles.[163][164] It is expected to only add a few hundred dollars to the building cost of the home. Level 2 charging can add up to 30 miles of range per hour of charging compared to up to 4 miles of range per hour for level 1 charging from 120 volt outlets.
+
+Infrastructure management
+With the increase in number of electric vehicles, it is necessary to create an appropriate number of charging stations to supply the increasing demand,[165] and a proper management system that coordinates the charging turn of each vehicle to avoid having some charging stations overloaded with vehicles and others empty.[166]
+
+Stabilization of the grid
+Since EVs can be plugged into the electric grid when not in use, battery-powered vehicles could reduce the need for dispatchable generation by feeding electricity into the grid from their batteries during periods of high demand and low supply (such as just after sunset) while doing most of their charging at night or midday, when there is unused generating capacity.[167][168] This vehicle-to-grid (V2G) connection has the potential to reduce the need for new power plants, as long as vehicle owners do not mind reducing the life of their batteries, by being drained by the power company during peak demand. Electric vehicle parking lots can provide demand response.[169]
+
+Furthermore, current electricity infrastructure may need to cope with increasing shares of variable-output power sources such as wind and solar. This variability could be addressed by adjusting the speed at which EV batteries are charged, or possibly even discharged.[170]
+
+Some concepts see battery exchanges and battery charging stations, much like gas/petrol stations today. These will require enormous storage and charging potentials, which could be manipulated to vary the rate of charging, and to output power during shortage periods, much as diesel generators are used for short periods to stabilize some national grids.[171][172]
+
+Repair Shops
+The infrastructure for vehicle repairs after accidents is a concern for insurers and mechanics due to safety requirements.[173] Batteries and other components must be carefully evaluated rather than being totally written off by insurers.[174]
+
+
+
